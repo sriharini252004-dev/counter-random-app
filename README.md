@@ -19,7 +19,7 @@ useState | State Management | Event Handling | Conditional Rendering | Dynamic R
 
 Through this project, I gained hands-on experience in managing component state and building interactive applications using React.
 
-GitHub Repository: [Your GitHub Link]
-Live Demo: [Your Vercel Link]
+GitHub Repository: [https://github.com/sriharini252004-dev/counter-random-app.git]
+Live Demo: [https://counter-random-app-weld.vercel.app/]
 
 #ReactJS #JavaScript #FrontendDevelopment #WebDevelopment #ReactDeveloper #MCAStudent #SoftwareDevelopment
